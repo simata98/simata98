@@ -6,4 +6,4 @@ F0rensics, Reversing, Machine Learning, Deep Learning, backend...
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simata98&layout=compact&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ljh9825)](https://solved.ac/ljh9825)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={ljh9825})](https://solved.ac/{ljh9825})
